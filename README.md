@@ -1,4 +1,6 @@
-# Reproduce react-apollo memory leak
+
+
+# QUE FUUUUNNY :D
 
 To reproduce https://github.com/apollographql/react-apollo/issues/2126 .
 
